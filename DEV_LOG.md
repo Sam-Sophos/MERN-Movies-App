@@ -43,3 +43,7 @@
 - Study status: In progress
 - Next exam: Tomorrow
 
+#### January 4, 2024
+- Added authentication TODO placeholder
+- Quick commit during study break
+
