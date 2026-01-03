@@ -31,3 +31,10 @@
 - [ ] User authentication
 - [ ] Database integration
 - [ ] Deployment ready
+#### January 3, 2024
+- Day 2 of daily commit challenge
+- Currently in exam week
+- Quick update to maintain GitHub streak
+- Added commit helper scripts for exam days
+- Exam focus: [Add your subject here]
+
