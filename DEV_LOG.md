@@ -1,6 +1,6 @@
 # MERN Movies App - Development Log
 
-## 📅 January 2024 Daily Commit Challenge
+## 📅 January 2026 Daily Commit Challenge
 
 ### Goal
 - Maintain GitHub streak during final exam week (Jan 2-15)
@@ -9,13 +9,25 @@
 
 ### 📝 Daily Updates
 
-#### January 2, 2024
+#### January 2, 2026
 - Initialized git repository
 - Set up comprehensive .gitignore
 - Created this development log
 - Exam focus: [Add your exam subjects here]
 - Commit time: 10 minutes
 - Status: Exams ongoing, minimal coding
+
+#### January 3, 2026
+- Day 2 of daily commit challenge
+- Currently in exam week
+- Quick update to maintain GitHub streak
+- Added commit helper scripts for exam days
+- Exam focus: [Add your subject here]
+
+#### January 4, 2026
+- Added authentication TODO placeholder
+- Quick commit during study break
+- Fixed scripts for correct year (2026)
 
 ### 📋 Post-Exam Development Plan
 1. User authentication system
@@ -31,19 +43,9 @@
 - [ ] User authentication
 - [ ] Database integration
 - [ ] Deployment ready
-#### January 3, 2024
-- Day 2 of daily commit challenge
-- Currently in exam week
-- Quick update to maintain GitHub streak
-- Added commit helper scripts for exam days
-- Exam focus: [Add your subject here]
 
-#### 2026-01-04
-- Quick commit during Your_Todays_Subject preparation
-- Study status: In progress
-- Next exam: Tomorrow
-
-#### January 4, 2024
-- Added authentication TODO placeholder
-- Quick commit during study break
+#### January 4, 2026 (Update 2)
+- Realized it's actually 2026, not 2024
+- Updated all scripts and documentation
+- Maintaining daily streak for 2026 heatmap
 
