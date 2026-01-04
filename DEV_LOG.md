@@ -38,3 +38,8 @@
 - Added commit helper scripts for exam days
 - Exam focus: [Add your subject here]
 
+#### 2026-01-04
+- Quick commit during Your_Todays_Subject preparation
+- Study status: In progress
+- Next exam: Tomorrow
+
