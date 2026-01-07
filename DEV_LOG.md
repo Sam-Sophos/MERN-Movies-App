@@ -69,3 +69,8 @@
 - Missed commit yesterday, catching up
 - Exams still in progress
 
+#### January 7, 2026
+- Created global CSS stylesheet
+- Backfilled yesterday's missed commit
+- Exams continue, minimal coding
+
