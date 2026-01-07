@@ -1,18 +1,1 @@
-// MovieList component - to be implemented after exams
-// Created: January 5, 2026
-// Purpose: Display list of movies from API
-// Status: Placeholder for post-exam development
-
-import React from 'react';
-
-const MovieList = () => {
-  return (
-    <div className='movie-list'>
-      <h2>Movie List</h2>
-      <p>Component will be implemented after exams</p>
-      {/* TODO: Add movie cards after API integration */}
-    </div>
-  );
-};
-
-export default MovieList;
+// MovieList component - to be implemented after exams\n// Created: January 5, 2026\n// Purpose: Display list of movies from API\n// Status: Placeholder for post-exam development\n\nimport React from 'react';\n\nconst MovieList = () => {\n  return (\n    <div className='movie-list'>\n      <h2>Movie List</h2>\n      <p>Component will be implemented after exams</p>\n      {/* TODO: Add movie cards after API integration */}\n    </div>\n  );\n};\n\nexport default MovieList;
