@@ -1,34 +1,36 @@
-import mongoose from "mongoose";
-const { ObjectId } = mongoose.Schema;
+// Movie database schema
+// Created: January 8, 2026
+// Purpose: Define Movie model for MongoDB
+// Status: Placeholder for post-exam implementation
 
-const reviewSchema = mongoose.Schema(
-  {
-    name: { type: String, required: true },
-    rating: { type: Number, required: true },
-    comment: { type: String, required: true },
-    user: {
-      type: mongoose.Schema.Types.ObjectId,
-      required: true,
-      ref: "User",
-    },
+const mongoose = require('mongoose');
+
+const movieSchema = new mongoose.Schema({
+  title: {
+    type: String,
+    required: true,
+    trim: true
   },
-  { timestamps: true }
-);
-
-const movieSchema = new mongoose.Schema(
-  {
-    name: { type: String, required: true },
-    image: { type: String },
-    year: { type: Number, required: true },
-    genre: { type: ObjectId, ref: "Genre", required: true },
-    detail: { type: String, required: true },
-    cast: [{ type: String }],
-    reviews: [reviewSchema],
-    numReviews: { type: Number, required: true, default: 0 },
-    createdAt: { type: Date, default: Date.now },
+  description: {
+    type: String,
+    required: true
   },
-  { timestamps: true }
-);
+  releaseYear: {
+    type: Number,
+    required: true
+  },
+  genre: [String],
+  rating: {
+    type: Number,
+    min: 0,
+    max: 10,
+    default: 0
+  },
+  createdAt: {
+    type: Date,
+    default: Date.now
+  }
+  // TODO: Add more fields after exams
+});
 
-const Movie = mongoose.model("Movie", movieSchema);
-export default Movie;
+module.exports = mongoose.model('Movie', movieSchema);

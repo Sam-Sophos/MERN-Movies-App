@@ -74,3 +74,9 @@
 - Backfilled yesterday's missed commit
 - Exams continue, minimal coding
 
+
+#### January 8, 2026
+- Created Movie database schema/model
+- Set up MongoDB structure for post-exam work
+- Day 7 of daily commit streak
+
