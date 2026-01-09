@@ -80,3 +80,8 @@
 - Set up MongoDB structure for post-exam work
 - Day 7 of daily commit streak
 
+#### January 9, 2026
+- Created utility functions file (helpers.js)
+- Added movie formatting and validation helpers
+- Day 8 of daily commit streak
+
