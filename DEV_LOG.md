@@ -95,3 +95,8 @@
 - Set up variables for database, authentication, and API
 - Day 9 of daily commit streak
 
+#### January 11, 2026
+- Created error handling middleware
+- Added async handler utility
+- Day 10 of daily commit streak
+
