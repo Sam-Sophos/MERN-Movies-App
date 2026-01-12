@@ -108,3 +108,8 @@
 - Created User model with authentication methods
 - Added password encryption and JWT token generation
 
+#### January 12, 2026
+- Created authentication controller
+- Added register, login, and getMe functions
+- Day 11 of daily commit streak
+
