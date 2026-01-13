@@ -113,3 +113,8 @@
 - Added register, login, and getMe functions
 - Day 11 of daily commit streak
 
+#### January 12, 2026
+- Created authentication controller
+- Added register, login, and getMe functions
+- Day 11 of daily commit streak
+
