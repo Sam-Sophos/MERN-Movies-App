@@ -128,3 +128,7 @@
 - Day 13 of daily commit streak
 - Last exam tomorrow!
 
+#### January 14, 2026
+- Added/updated package.json with npm scripts
+- Set up start and development server commands
+
