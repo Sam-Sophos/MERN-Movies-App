@@ -122,3 +122,9 @@
 - Created User model with authentication methods
 - Added password encryption and JWT token generation
 
+#### January 14, 2026
+- Created main Express server file (server.js)
+- Added database connection, middleware, and route setup
+- Day 13 of daily commit streak
+- Last exam tomorrow!
+
