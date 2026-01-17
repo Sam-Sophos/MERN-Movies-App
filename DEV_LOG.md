@@ -155,3 +155,9 @@
 - Added: protect(), authorize(), optionalAuth() middleware
 - Created auth utilities for token generation and password handling
 
+#### January 17, 2026
+- Added request validation for movies, registration, and login
+- Implemented logging middleware for API monitoring
+- Added request/response logging with sanitized sensitive data
+- Missed commit time by 30 minutes (backfilling)
+
