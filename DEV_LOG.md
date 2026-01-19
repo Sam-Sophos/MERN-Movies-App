@@ -169,3 +169,9 @@
 - Added authentication context with login/logout functionality
 - Day 4 of full development
 
+#### January 19, 2026
+- Created API service layer for frontend
+- Implemented axios interceptors for auth token handling
+- Added centralized error handling and token management
+- Created movieAPI and authAPI modules
+
